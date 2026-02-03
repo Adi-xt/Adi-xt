@@ -42,9 +42,13 @@
 
 
 ---
-## 🧩 Metrics
+## 📈 Activity
 
-<img src="https://github.com/Adi-xt/Adi-xt/blob/main/github-metrics.svg" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Adi-xt&theme=tokyonight&utcOffset=5.5" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adi-xt&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adi-xt&theme=tokyonight" />
 
 ---
 
