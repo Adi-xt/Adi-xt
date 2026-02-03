@@ -42,9 +42,9 @@
 
 
 ---
-## 🔥 GitHub Streak
+## 🧩 Metrics
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adi-xt&theme=tokyonight" />
+<img src="https://github.com/Adi-xt/Adi-xt/blob/main/github-metrics.svg" />
 
 ---
 
