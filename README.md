@@ -17,9 +17,9 @@ Currently focused on **DSA + JavaScript + Web Development**.
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Adi-xt&show_icons=true" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adi-xt&show_icons=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adi-xt&layout=compact" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adi-xt&layout=compact)
 
 
 ---
