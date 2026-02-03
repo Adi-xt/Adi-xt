@@ -16,9 +16,9 @@ Currently focused on **DSA + JavaScript + Web Development**.
 ---
 
 ## 📊 GitHub Stats
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adi-xt&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adi-xt&layout=compact)
 
 ---
 
@@ -45,8 +45,8 @@ Currently focused on **DSA + JavaScript + Web Development**.
 ---
 
 ## 📫 Connect with Me
-- GitHub: https://github.com/YOUR_USERNAME  
-- LinkedIn: (add link here)  
+- GitHub: https://github.com/Adi-xt  
+- LinkedIn: https://www.linkedin.com/in/adigupta9
 
 ---
 
